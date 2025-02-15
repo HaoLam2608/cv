@@ -36,10 +36,10 @@ I am a dedicated and enthusiastic DevOps Intern with a strong foundation in Info
 
 - [Shopperstore](https://github.com/HaoLam2608/webquanao.git):
     - **Description**: Web application for clothing store using .NET Framework 4.5.
-    - **Technologies used**: .NET Framework 4.5, SQL Server.
+    - **Technologies used**: .NET Framework 4.5, Microsoft SQL.
     - **Details**:
         - **.NET Framework 4.5**: Used to build the backend for the web application.
-        - **SQL Server**: Used to manage the application's database.
+        - **Microsoft SQL**: Used to manage the application's database.
 
 ---
 
