@@ -1,6 +1,6 @@
 # Lam Nguyen Anh Hao
 
-*DevOps Intern*
+*.Net Intern*
 
 📱 (+84) 943 767 640  
 📧 haolam2684@gmail.com  
@@ -10,8 +10,7 @@
 ---
 
 ## Introduction
-
-I am a dedicated and enthusiastic DevOps Intern with a strong foundation in Information Technology, currently pursuing my degree at Ho Chi Minh City University of Industry and Trade. With hands-on experience in various projects, particularly in building and deploying applications using modern DevOps practices, I am eager to apply my skills and knowledge to contribute effectively to your team. My technical proficiency includes working with tools such as Docker, GitHub Actions, and cloud services like Azure, which I have utilized to streamline development and deployment processes. I am committed to continuous learning and am excited about the opportunity to grow and excel in a dynamic DevOps environment.
+I am a dedicated and enthusiastic .NET Developer with a strong foundation in Information Technology, currently pursuing my degree at Ho Chi Minh City University of Industry and Trade. With hands-on experience in various projects, particularly in building and deploying applications using .NET technologies, I am eager to apply my skills and knowledge to contribute effectively to your team. My technical proficiency includes working with tools such as .NET Framework, ASP.NET, and Microsoft SQL, which I have utilized to develop robust and scalable web applications. I am committed to continuous learning and am excited about the opportunity to grow and excel in a dynamic development environment.
 
 ---
 
