@@ -34,10 +34,17 @@ I am a dedicated and enthusiastic DevOps Intern with a strong foundation in Info
         - **Docker Registry**: Store and manage Docker images of the application.
         - **Microsoft SQL**: Used to manage the application's database.
 
+- [Shopperstore](https://github.com/HaoLam2608/webquanao.git):
+    - **Description**: Web application for clothing store using .NET Framework 4.5.
+    - **Technologies used**: .NET Framework 4.5, SQL Server.
+    - **Details**:
+        - **.NET Framework 4.5**: Used to build the backend for the web application.
+        - **SQL Server**: Used to manage the application's database.
+
 ---
 
 ## Skills
 
 - Languages: C#, Python, Bash, Javascript
 - Tools: Dockerfile, GitHub Actions, GitLab CI
-- Knowledge: Azure, Basic knowledge of Linux/Unix operating systems, Familiarity with CI/CD tools (Jenkins, GitLab CI), Experience or knowledge of containerization tools like Docker, Kubernetes, Basic understanding of cloud services (AWS, Azure, GCP)
+- Knowledge: Basic knowledge of Linux/Unix operating systems, Familiarity with CI/CD tools (Jenkins, GitLab CI), Experience or knowledge of containerization tools like Docker, Basic understanding of cloud services (AWS, Azure, GCP)
