@@ -24,7 +24,7 @@ I am a passionate and detail-oriented Backend Developer with a solid background 
 
 ## Projects
 
-- [EcommerceMVC](https://github.com/HaoLam2608/EcommerceMVC): 
+- **EcommerceMVC** | 07/2024 - 07/2024
   - **Team size**: 1
   - **Description**: E-commerce web application using ASP.NET 8.
   - **Technologies used**: ASP.NET 8, Dockerfile, GitHub Actions CI/CD, Docker Registry, Microsoft SQL.
@@ -34,16 +34,18 @@ I am a passionate and detail-oriented Backend Developer with a solid background 
     - **GitHub Actions CI/CD**: Set up continuous integration and continuous deployment (CI/CD) to automate the build and deployment process.
     - **Docker Registry**: Store and manage Docker images of the application.
     - **Microsoft SQL**: Used to manage the application's database.
+  - [**Github Repositories**](https://github.com/HaoLam2608/EcommerceMVC)
 
-- [Shopperstore](https://github.com/HaoLam2608/webquanao.git):
+- **Shopperstore** | 11/2024 - 12/2024
   - **Team size**: 3
   - **Description**: Web application for clothing store using .NET Framework 4.5.
   - **Technologies used**: .NET Framework 4.5, Microsoft SQL.
   - **Details**:
     - **.NET Framework 4.5**: Used to build the backend for the web application.
     - **Microsoft SQL**: Used to manage the application's database.
+  - [**Github Repositories**](https://github.com/HaoLam2608/webquanao.git)
     
-- [Degree Presentation Application](https://github.com/sofcongthuong/BlockChain_Research.git):
+- **Degree Presentation Application** | 04/2025 - present
   - **Team Size**: 4
   - **Description**: A decentralized application for presenting and verifying academic degrees, leveraging blockchain technology for enhanced security and transparency.
   - **Technologies used**: Hyperledger Fabric, Node.js, Express.js, MySQL, React Native, IPFS, AES-256.
@@ -54,6 +56,7 @@ I am a passionate and detail-oriented Backend Developer with a solid background 
     - **React Native**: Builds the cross-platform mobile application for users to present and verify degrees.
     - **IPFS**: Decentralized storage for degree documents.
     - **AES-256**: Ensures secure encryption of sensitive data.
+  - [**Article**](https://svnckh.huit.edu.vn/researchtopic/topic/librarydetail/2573?year=2025) 
 ---
 
 ## Education
