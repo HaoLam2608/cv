@@ -22,20 +22,6 @@ I am a passionate and detail-oriented Backend Developer with a solid background 
 - **Other Tools**: Git, Postman
 - **Languages**: Vietnamese (Native), English
 
----
-## Education
-
-- Studied Information Technology at Ho Chi Minh City University of Industry and Trade (2022 - 2026)
-- Current GPA: 3.3/4.0
-
----
-## Awards and Honors
-
-- First Prize, Faculty-level Student Scientific Research Competition, 2024-2025  
-  - Project: Blockchain-based Degree Presentation Application using Hyperledger Fabric
-
----
-
 ## Projects
 
 - [EcommerceMVC](https://github.com/HaoLam2608/EcommerceMVC): 
@@ -68,4 +54,17 @@ I am a passionate and detail-oriented Backend Developer with a solid background 
     - **React Native**: Builds the cross-platform mobile application for users to present and verify degrees.
     - **IPFS**: Decentralized storage for degree documents.
     - **AES-256**: Ensures secure encryption of sensitive data.
+---
+
+## Education
+
+- Studied Information Technology at Ho Chi Minh City University of Industry and Trade (2022 - 2026)
+- Current GPA: 3.3/4.0
+
+---
+## Awards and Honors
+
+- First Prize, Faculty-level Student Scientific Research Competition, 2024-2025  
+  - Project: Blockchain-based Degree Presentation Application using Hyperledger Fabric
+
 ---
